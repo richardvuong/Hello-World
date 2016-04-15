@@ -12,7 +12,7 @@ print('------------------------------')
 import random
 randomNumber = random.randint(0,100)
 userGuess = 'abc'
-numberGuesses = 0
+numberGuesses = 1
 
 while userGuess != randomNumber:
     
